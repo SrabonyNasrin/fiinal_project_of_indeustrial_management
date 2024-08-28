@@ -1,0 +1,6 @@
+fastapi[standard]
+requests
+sqlalchemy
+pydantic
+python-dotenv
+mysql-connector-python
